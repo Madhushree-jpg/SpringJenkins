@@ -1,0 +1,5 @@
+package com.mm.controller;
+
+public class UserController {
+
+}
